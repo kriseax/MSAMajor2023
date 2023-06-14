@@ -13,3 +13,11 @@ In the United States, it’s customary to leave a tip for your server after dini
 - The inputs will come in as strings and you wil need to convert to the appropriate data type. (integer or float)
 - It may be best to use string interpolation to print the output message to the user
 - You can write one function to get both user inputs
+
+## Sample Output
+
+```
+How much was the meal? 10.00
+What percentage would you like to tip? 0.15
+Leave $1.50
+```

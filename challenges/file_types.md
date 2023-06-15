@@ -22,3 +22,5 @@ If the file’s name ends with some other suffix or has no suffix at all, output
 - Determine the file type
 - Print the file type
 
+
+![file type](filetype.png)

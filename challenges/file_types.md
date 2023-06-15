@@ -6,10 +6,10 @@ See developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_t
 
 In a file called extensions.py, implement a program that prompts the user for the name of a file and then outputs that file’s media type if the file’s name ends, case-insensitively, in any of these suffixes:
 
-- .gif
-- .jpg
-- .jpeg
-- .png
-- .pdf
-- .txt
-- .zip
+- .gif (image/gif)
+- .jpg (image/jpg)
+- .jpeg (image/jpeg)
+- .png (image/png)
+- .pdf (document/pdf)
+- .txt (document/txt)
+- .zip (file/zip)

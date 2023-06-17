@@ -17,4 +17,4 @@ A vending machine sells snacks for 50 cents. In a project named vending_machine.
 Note: Your program should not crash for any reason. You should handle any exception(s) that may occur.
 
 ## Sample Output
-![vending_machine](vending_machine.gif.png)
+![vending_machine](vending_machine.gif)

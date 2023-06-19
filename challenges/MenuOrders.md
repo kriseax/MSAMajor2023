@@ -22,7 +22,7 @@ In a program called menu.py, implement a program that enables a user to place an
 - Ignore any input that isn’t an item. The case will matter; for example "Taco" is a valid key but "taco" is not. So the user must enter the item as it is stored in the dictionary
 - End the program when user types "end". Case should not matter. If the user types "end", "END", "End", "eND"...etc the program should still end.
 - Create the menu as a dictionary.
-- Assume all the items in the menu are in title case. Implement the program in a way such that if a user enters the item name in any case it will still fin the item.
+- **Bonus**: Assume all the items in the menu are in title case. Implement the program in a way such that if a user enters the item name in any case it will still fin the item.
 Note: Your program should not crash for any reason. You should handle any exception(s) that may occur.
 
 ## Sample Output

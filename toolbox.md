@@ -5,8 +5,10 @@ You can think of your programming skills and knowledge as tools in a toolbox. Yo
 - [Store a Value](#store-a-value)
 - [Get user Input](#get-input-from-the-user)
 - [Make a Decision](#have-your-code-make-a-decision)
-- Run the Same Code Multiple Times [For Loop](#the-for-loop)
-- Run the Same Code Multiple Times[While Loop](#the-while-loop)
+- [For Loop](#the-for-loop). Run the Same Code Multiple Times 
+- [While Loop](#the-while-loop). Run the Same Code Multiple Times 
+- [Lists](#lists). Store multiple values in one structure.
+- [Dictionaries](#dictionaries). Store associated data together
 
 ## Store a value
 
@@ -167,6 +169,8 @@ print("The sum is", sum)
 
 Lists are used to store multiple items in a single variable. Lists are created using square brackets[]
 
+### Lists
+
 ```python
 this_list = ["apple", "banana", "cherry"]
 print(this_list)
@@ -195,6 +199,8 @@ The second print statement will print:
 > ["apple", "banana", "cherry", "grapes", "watermelon"]
 
 ## Use Dictionaries to store associated data in key, value pairs
+
+### Dictionaries
 
 In Python, a dictionary is a built-in data structure that allows you to store and retrieve data in an unordered manner. It is also known as an associative array, hash map, or simply a map. Dictionaries in python are defined using curly braces {}, and they consist of key-value pairs. The keys in a dictionary must be unique. The keys are also immutable, meaning they canno change, and can be strings or numbers, while the corresponding values can be of any data type. Dictionaries provide an efficient way to store and access data, as the retrieval of values is based on the unique keys rather than the position of elements.
 

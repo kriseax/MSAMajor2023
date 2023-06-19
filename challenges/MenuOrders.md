@@ -27,4 +27,4 @@ Note: Your program should not crash for any reason. You should handle any except
 
 ## Sample Output
 
-![menu](menu_output.gif)
+![menu](menu_output.png)

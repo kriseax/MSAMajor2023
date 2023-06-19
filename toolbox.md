@@ -188,3 +188,40 @@ The second print statement will print:
 
 > ["apple", "banana", "cherry", "grapes", "watermelon"]
 
+## Use Dictionaries to store associated data in key, value pairs
+
+In Python, a dictionary is a built-in data structure that allows you to store and retrieve data in an unordered manner. It is also known as an associative array, hash map, or simply a map. Dictionaries in python are defined using curly braces {}, and they consist of key-value pairs. The keys in a dictionary must be unique. The keys are also immutable, meaning they canno change, and can be strings or numbers, while the corresponding values can be of any data type. Dictionaries provide an efficient way to store and access data, as the retrieval of values is based on the unique keys rather than the position of elements.
+
+Here are three code examples demonstrating the usage of dictionaries in Python:
+
+1. Creating a dictionary and accessing values:
+```python
+student = {'name': 'John Doe', 'age': 20, 'grade': 'A'}
+print(student['name'])  # Output: John Doe
+print(student['age'])   # Output: 20
+print(student['grade']) # Output: A
+```
+
+In this example, a dictionary called student is created with keys 'name', 'age', and 'grade', along with their respective values. The values can be accessed using square brackets and the corresponding key.
+
+2. Adding and modifying dictionary entries:
+```python
+student = {'name': 'John Doe', 'age': 20, 'grade': 'A'}
+for key in student:
+    print(key)          # Output: name, age, grade
+    print(student[key]) # Output: John Doe, 20, A
+
+```
+In this example, the value corresponding to the 'age' key is modified from 20 to 21. Additionally, a new key-value pair 'score': 95 is added to the dictionary using assignment with a new key.
+
+3. Iterating over dictionary keys and values:
+```python
+student = {'name': 'John Doe', 'age': 20, 'grade': 'A'}
+for key in student:
+    print(key)          # Output: name, age, grade
+    print(student[key]) # Output: John Doe, 20, A
+```
+
+In this example, a for loop is used to iterate over the keys of the student dictionary. Within the loop, both the keys and their corresponding values are accessed using the key in square brackets.
+
+Dictionaries provide a powerful way to organize and manipulate data in Python, making them a valuable tool for various programming tasks.

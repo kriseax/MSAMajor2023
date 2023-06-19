@@ -5,8 +5,8 @@ You can think of your programming skills and knowledge as tools in a toolbox. Yo
 - [Store a Value](#store-a-value)
 - [Get user Input](#get-input-from-the-user)
 - [Make a Decision](#have-your-code-make-a-decision)
-- Run the Same Code Multiple Times [For Loop](the-for-loop)
-- Run the Same Code Multiple Times[While Loop](the-while-loop)
+- Run the Same Code Multiple Times [For Loop](#the-for-loop)
+- Run the Same Code Multiple Times[While Loop](#the-while-loop)
 
 ## Store a value
 

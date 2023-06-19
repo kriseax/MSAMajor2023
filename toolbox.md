@@ -214,7 +214,7 @@ for key in student:
 ```
 In this example, the value corresponding to the 'age' key is modified from 20 to 21. Additionally, a new key-value pair 'score': 95 is added to the dictionary using assignment with a new key.
 
-3. Iterating over dictionary keys and values:
+3. Iterating over dictionary keys to get the associated values values:
 ```python
 student = {'name': 'John Doe', 'age': 20, 'grade': 'A'}
 for key in student:
@@ -223,5 +223,21 @@ for key in student:
 ```
 
 In this example, a for loop is used to iterate over the keys of the student dictionary. Within the loop, both the keys and their corresponding values are accessed using the key in square brackets.
+
+4. Iterating over dictionary keys and values in the loop header:
+```python
+student_grades = {'John': 85, 'Emily': 92, 'Michael': 78, 'Sophia': 95}
+
+for name, grade in student_grades.items():
+    print(f"{name} scored {grade} marks.")
+
+# Output:
+# John scored 85 marks.
+# Emily scored 92 marks.
+# Michael scored 78 marks.
+# Sophia scored 95 marks.
+
+```
+In this example, we have a dictionary called student_grades, where the keys represent the names of the students and the values represent their respective grades. We iterate over the dictionary using the items() method, which returns each key-value pair as a tuple. The name and grade variables in the loop header represent the key and value of each iteration, respectively. We then use these variables to print out the name and corresponding grade for each student in a formatted string.
 
 Dictionaries provide a powerful way to organize and manipulate data in Python, making them a valuable tool for various programming tasks.

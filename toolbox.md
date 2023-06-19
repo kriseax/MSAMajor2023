@@ -2,8 +2,8 @@
 
 You can think of your programming skills and knowledge as tools in a toolbox. You'll choose to use a particular tool depending on the task. This document is created to help you with choosing the correct tool.
 
-- [Store a Value](#-store-a-value)
-- [Get user Input](#-get-input-from-the-user)
+- [Store a Value](#store-a-value)
+- [Get user Input](#get-input-from-the-user)
 - [Make a Decision](#section-3)
 
 ## Store a value

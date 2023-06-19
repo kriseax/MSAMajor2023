@@ -2,7 +2,9 @@
 
 You can think of your programming skills and knowledge as tools in a toolbox. You'll choose to use a particular tool depending on the task. This document is created to help you with choosing the correct tool.
 
-## Store a value?
+- [Section 1](#section-1)
+
+## Store a value? {#section-1}
 
 If you need to store a value create a variable. Remember that a variable is a named locaton in memory and storing that value in a variable will allow you to use it in other places in your program. Here is how you declare a variable:
 

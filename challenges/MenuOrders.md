@@ -1,4 +1,4 @@
-# MEnu Order Challenge
+# Menu Order Challenge
 Create a program that prompts the user to input a menu item and calculate the total  for the order.
 
 There is a restaurant which offers a menu of entrees, per the list of items and prices below. Imagine the following were entries in a dictionary:

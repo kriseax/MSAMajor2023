@@ -2,11 +2,11 @@
 
 You can think of your programming skills and knowledge as tools in a toolbox. You'll choose to use a particular tool depending on the task. This document is created to help you with choosing the correct tool.
 
-- [Store a Value](#section-1)
-- [Get user Input](#section-2)
+- [Store a Value](#-store-a-value)
+- [Get user Input](#-get-input-from-the-user)
 - [Make a Decision](#section-3)
 
-## Store a value? {#section-1}
+## Store a value
 
 If you need to store a value create a variable. Remember that a variable is a named locaton in memory and storing that value in a variable will allow you to use it in other places in your program. Here is how you declare a variable:
 
@@ -20,7 +20,7 @@ my_boolean = True
 
 You can choose any name for your variables but make sure they are meaningful and convey what the variable is being used for.
 
-## Get input from the user? {#section-2}
+## Get input from the user
 
 Use the ```input()``` function to get input from a user. You should store the user input in a variable
 
@@ -30,7 +30,7 @@ user_input = input('Enter your name:')
 print('Hello, ' + user_input) 
 ```
 
-## Have your code make a decision? {#section-2}
+## Have your code make a decision
 
 Decision making is required when we want to execute some code only if a certain condition is satisfied. The ```if…elif…else``` statement is used in Python for decision making.
 

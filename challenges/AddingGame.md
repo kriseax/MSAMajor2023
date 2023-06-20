@@ -6,7 +6,7 @@ Create a program in python called adding_game.py that prompts a user to answer a
 Your program should meet the following requirements:
 
 - The program should prompt the user for a difficulty level. Valid options are 1, 2, or 3.If the user does not input 1, 2, or 3, the program should prompt again.
-- The program should prompt the user for the number of questions to ask. Valid options are  1 - 10.If the user does not input 1 - 10, the program should prompt again.
+- The program should prompt the user for the number of questions to ask. Valid options are  3 - 10.If the user does not input 3 - 10, the program should prompt again.
 - The program should randomly generate the number of questions the user entered in the previous step. For example, if the user entered 5 for the number of questions the program should ask, the program should then generate 5 math problems. Likewise, if they entered 10 the program should generate 10 problems. The problems should be formatted as X + Y = , wherein each of X and Y is a non-negative integer with difficulty level of digits. For example:
   - If the user chose difficulty level 1 then X and Y should be 1 digit, non-negative, numbers (0 - 9).
   - If the user chose difficulty level 2 then X and Y should be 2 digit, non-negative, numbers (10 - 99).

@@ -17,6 +17,7 @@ Your program should meet the following requirements:
   - If an answer is not correct (or not even a number), the program should output WRONG!!! and prompt the user again, allowing the user up to three tries in total to answer the question. If the user has still not answered correctly after three tries, the program should output the correct answer and the prompt the user to answer the next question.
 - The program should ultimately output the user’s score and the percentage (formatted to 2 decimal places) correct.
 - End the program
+- **You must write at least 2 functions in your program**
 
 ## Sample Output
 

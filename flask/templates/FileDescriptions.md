@@ -98,7 +98,7 @@ The index.html template extends the base.html template and overrides the content
 ```html
 <h1>{% block title %} Add a New Post {% endblock %}</h1>
 ```
-- This creates an <h1> heading for the page title. It also defines a block named title within the h1 tags. The content within the block will be inserted into the page title within the base.html template.
+- This creates an `<h1>` heading for the page title. It also defines a block named title within the h1 tags. The content within the block will be inserted into the page title within the base.html template.
 
 ```html
 <form method="post">

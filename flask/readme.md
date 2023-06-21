@@ -10,5 +10,6 @@ The `app.py` file contains the backend code that runs the app. Explanation of th
 - Next, you should review the documentation in the templates folder to learn about templating
 
 ## Run the code
-Run `python app.py` to start the flask server to view the application. The project will be visible on `localhost:5000` localhost, port 5000.
+- Run the init_db.py file to produce the database `python init_db.py`
+- Run `python app.py` to start the flask server to view the application. The project will be visible on `localhost:5000` localhost, port 5000.
 

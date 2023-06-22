@@ -31,7 +31,7 @@ You will have 3 additional methods
 
 
 ## Update Student Generator
-Update the student generator program to read student data from the students.csv program
+Update the student generator program to read student data from the students.csv file
 
 
 

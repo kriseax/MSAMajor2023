@@ -7,7 +7,7 @@ Create a student Class with these attributes. Remember to use the **__** to make
 - First name
 - Last name
 - major
-- credit hours (freshman, sophomore, junior, senior)
+- credit hours
 - gpa
 - ID number
 

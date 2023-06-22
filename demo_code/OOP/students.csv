@@ -1,0 +1,201 @@
+first_name,last_name,major,credit_hours,gpa,student_id
+Holly,Uttridge,Accounting,88,3.06,153605
+Alan,Moran,Accounting,50,3.19,171552
+Rowan,Downing,Ecology,90,2.57,181388
+Ronald,Becker,Language Arts,96,1.64,164243
+Cadence,Pickard,Language Arts,115,2.70,186135
+Matthew,Russell,Communication,22,2.56,159730
+Julius,Hooper,Geology,26,2.00,181625
+Mike,Reading,Health,56,3.00,157080
+Katelyn,Armstrong,Communication,90,3.17,142757
+Sabrina,Bowen,Art,86,2.25,154984
+Chuck,Casey,Leadership,39,1.88,156321
+Elijah,Wilkinson,Pre Law,57,3.03,186021
+Fred,Lloyd,Education,99,2.17,189114
+Bryce,Whitmore,Geology,67,2.65,157971
+Gwen,Osman,Journalism,17,1.60,140928
+Harvey,Edmonds,French,118,2.15,179479
+Rocco,Upsdell,Pre Med,107,3.00,166490
+Elly,Niles,Education,47,2.33,173093
+Harry,Allen,Science,94,2.40181750
+Kassandra,Warren,Art,114,2.49,165625
+Elle,Robinson,Health,98,1.98,144120
+Alexa,Herbert,Sociology,49,3.21,170058
+Gladys,Ripley,Mathematics,53,1.54,159819
+Emmanuelle,Isaac,English,21,3.08,147015
+Benny,Plumb,Mathematics,91,2.37,182835
+Deborah,Radley,French,117,3.01,188074
+Darlene,Grady,English,86,2.65,176345
+Ethan,Baldwin,Spanish,103,1.52,147931
+Thea,Ashley,Language Arts,50,2.38,182059
+Rose,Attwood,Mathematics,104,2.92,152063
+Nathan,Buckley,English,70,1.95,151334
+Christy,Brown,Earth Science,58,2.51,189408
+Domenic,Clayton,Art,48,3.12,161932
+Cherish,Craig,Geology,49,3.37,161824
+Martha,Robertson,Economics,77,2.13,149690
+Cherish,Yoman,English,119,1.93,187745
+Jayden,Blackburn,Economics,79,2.43,171862
+Barney,Keys,Mathematics,39,2.40,169080
+Louise,Whinter,Engineering,64,2.89,178405
+Danny,Zaoui,Pre Law,58,2.95,144582
+Daria,Ebbs,Engineering,73,2.32,156650
+Violet,Bayliss,Ecology,111,2.46,147489
+Joseph,Brett,Engineering,71,2.98,142792
+Evie,Cork,Engineering,116,2.72,185206
+Leroy,Wilde,Art,110,2.53,154790
+Russel,Yoman,Mathematics,104,3.35,165917
+Daron,Dallas,Communication,100,2.05,149943
+Lillian,Nobbs,Engineering,91,2.86,180759
+Kurt,Hobson,Communication,76,2.74,159429
+Joseph,Tutton,Geology,34,2.71,189936
+Javier,Eastwood,Communication,103,2.59,152107
+Nick,Craig,Ecology,89,3.07,150616
+Caleb,Exton,Engineering,19,2.43,178301
+Maya,Wooldridge,Geology,66,1.52,185312
+Marvin,Franks,Earth Science,93,3.47,144155
+Oliver,Roth,English,95,3.18,177250
+Danny,Mitchell,Communication,109,2.45,163737
+Lorraine,Rogers,Mathematics,81,2.25,151752
+Daron,Clarke,Earth Science,78,1.97,159221
+Josh,Janes,Education,38,3.50,156857
+Alexia,Chapman,Education,64,1.51,142832
+Karen,Jackson,English,27,2.95,173962
+Jenna,Barclay,Economics,61,1.64,148937
+Liliana,Drummond,Information Techology,98,2.75,161584
+Sebastian,Allcott,Education,30,3.26,144395
+Megan,Gray,Accounting,86,1.77,184262
+Ivy,Norton,Ecology,28,3.40,177246
+Danny,Nash,Philosophy,40,2.76,173658
+Jackeline,Strong,Philosophy,36,2.03,184867
+Harry,Eastwood,Sociology,92,2.00,145430
+Wade,Rogers,English,113,2.80,183579
+Olivia,Wilton,Education,57,3.34,155374
+Tess,Brett,Education,34,2.18,160960
+Cynthia,Buckley,French,53,2.51,170434
+Chad,Rogers,Information Techology,57,2.23,185050
+Gil,Freeburn,Ecology,79,1.99,142857
+Hayden,Brooks,Engineering,56,3.42,187488
+Javier,Powell,History,38,3.01,173202
+Mike,Taylor,Pre Med,56,3.40,182330
+Marvin,Watson,English,107,2.30,142296
+Peter,Irwin,Ecology,63,2.72,164973
+Benny,Reading,Science,30,2.18,181137
+Holly,Irwin,Computer Science,104,3.16,186465
+Eryn,Michael,History,67,2.57,157963
+Tom,Webster,Language Arts,117,1.70,176653
+Boris,Hobbs,Computer Science,51,3.20,165087
+Nathan,Styles,Information Techology,56,2.69,172800
+Jane,Lloyd,Geology,109,3.50,176523
+Livia,Vollans,Sociology,56,3.35,167670
+Makenzie,Page ,Leadership,25,3.08,154369
+Carrie,Lucas,English,39,2.46,159331
+Chelsea,Wooldridge,Leadership,63,2.33,169827
+Danny,Denton,Science,98,2.61,166295
+Colleen,Gray,English,90,2.06,188858
+Harmony,Hill,English,35,3.00,162730
+Jamie,Darcy,Art,15,2.59,166784
+Mason,Gavin,Journalism,67,1.99,148816
+Zara,Stanton,Science,84,3.17,173727
+Anthony,Hooper,Sociology,89,1.90,183365
+Josh,Webster,Mathematics,20,2.02,180170
+Felicity,Dwyer,Engineering,88,1.98,186024
+Alan,Lane,Engineering,44,2.29,166754
+Stephanie,Drummond,Engineering,108,3.33,176615
+Vera,Larsen,Mathematics,44,1.63,156058
+Bryce,Bolton,Computer Science,67,3.47,175144
+Candice,Kaur,Economics,79,2.08,186080
+Michael,Palmer,History,17,2.41,141083
+Nina,Clark,Sociology,116,3.14,169394
+George,Bennett,Ecology,117,2.53,150269
+Lucas,Morgan,Pre Med,63,1.62,179651
+John,Leigh,Language Arts,87,2.80,153651
+Anabel,Casey,Leadership,100,3.24,170920
+Felicity,Gray,Engineering,42,2.44,145659
+Jayden,Ebbs,Mathematics,107,3.06,173207
+Ronald,Hale,Health,49,3.40,152469
+Carter,Townend,Accounting,32,2.89,141257
+Davina,Shields,Mathematics,117,2.03,182130
+Chelsea,Tennant,Journalism,55,2.89,186284
+Tony,Egerton,Education,68,1.79,158950
+Carl,Baxter,English,62,2.44,169708
+Leanne,Morgan,Engineering,41,3.19,150113
+Hazel,Jones,Spanish,85,3.36,169088
+Danny,Cassidy,Information Techology,21,3.02,171191
+Daron,Barclay,Philosophy,43,1.89,144376
+Margaret,Robertson,Pre Med,92,2.17,179221
+Ilona,Pratt,Geology,86,2.21,162049
+Barry,Ellis,Language Arts,42,3.03,155633
+Johnny,Page ,Pre Med,42,3.43,153897
+Monica,Kaur,Engineering,119,3.35,143914
+Camden,Saunders,Journalism,41,2.44,154063
+Fiona,Shaw,Engineering,57,3.32,168133
+Maxwell,Bennett,History,36,3.02,171093
+Alison,Quinton,Journalism,115,2.94,156984
+Fred,Bailey,Geology,50,1.56,164706
+Chuck,Watt,Information Techology,39,3.37,160050
+Candace,Callan,Education,110,2.37,155609
+Anthony,Walter,Sociology,55,2.83,186001
+Zara,Powell,Health,111,2.73,188983
+Caleb,Upton,Science,54,2.88,182234
+Owen,Bishop,Geology,94,2.93186391
+Lucas,Robinson,Mathematics,60,2.61,182844
+Hazel,Snow,Art,33,1.98,175207
+Tom,Groves,Mathematics,57,3.44,148421
+Paula,Raven,Language Arts,74,1.67,147993
+Abdul,Hobson,Ecology,51,3.05,152996
+Doris,Morgan,Pre Med,43,2.17,140028
+Leroy,Clarkson,Education,115,2.02,149792
+Alan,Moore,Theater,104,1.79,160517
+Henry,Silva,Journalism,49,2.86,179931
+Tyson,Exton,Science,21,3.40,148453
+Matt,Olson,Mathematics,98,1.71,178505
+Phillip,Brett,Leadership,18,2.90,142842
+Javier,Cork,Sociology,40,2.17,149752
+Catherine,York,French,23,1.63,163760
+Anabelle,Woodley,Computer Science,96,3.11,184936
+Domenic,Mcnally,Health,111,2.27,162130
+Bethany,Murray,Spanish,47,3.43,186396
+Nathan,Simmons,English,115,3.19,188197
+Ryan,Forester,Mathematics,72,2.78,185180
+Bryce,Russel,Computer Science,24,2.78,171992
+Cassandra,Addison,Pre Law,112,1.67,172010
+Camellia,Young,Mathematics,73,2.44,149569
+Elijah,Bryson,English,66,2.39,162783
+Russel,Isaac,French,53,2.34,157486
+Courtney,Marshall,Art,31,2.54,154726
+Carl,Barclay,Geology,21,2.84,144451
+Marvin,Fall,Spanish,103,2.65,165041
+Gina,Marshall,Economics,107,2.78,171347
+Kenzie,Adams,English,35,2.54,149331
+Manuel,Tait,English,88,2.90,176739
+Leroy,Trent,Science,114,3.01,149274
+Enoch,Dixon,Leadership,117,2.91,177608
+Bart,Poole,Spanish,80,3.40,184936
+Anthony,Heaton,Art,118,3.30,152630
+Erick,Rycroft,Mathematics,117,2.18,174139
+Roger,Lynch,Journalism,17,2.71,170227
+Maxwell,King,Communication,55,1.61,167412
+Stephanie,Terry,Art,39,2.70,181415
+Ivy,Mcleod,Pre Law,35,3.27,179435
+Joseph,Dunbar,French,57,2.38,148308
+Percy,Randall,Education,45,2.37,148775
+Skylar,Hale,Sociology,115,2.95,145997
+Bryon,Darcy,English,68,1.91,173404
+Samantha,Emmott,Mathematics,38,2.65,184268
+Melania,Collis,Leadership,118,2.04,181112
+Leroy,Osmond,Mathematics,68,3.34,173684
+Bridget,Snell,Geology,17,3.15,175357
+Candace,Gray,Earth Science,105,2.45,145723
+Nina,Dyson,Information Techology,62,1.63,163678
+Mary,West,History,73,1.66,182307
+Liliana,Middleton,Geology,112,2.36,158703
+Meredith,Redden,Leadership,19,3.46,168304
+Tara,Rose,English,43,2.72,188809
+Gwen,Blackburn,Journalism,117,1.65,173432
+Kassandra,Stewart,History,110,2.69,169808
+Jolene,Heaton,Engineering,110,1.93,180828
+Priscilla,Wilkinson,Sociology,49,2.08,142878
+Karla,Duvall,Language Arts,98,1.90,184906
+Madison,Woodley,Ecology,45,3.16,161766
+Aeris,Hancock,English,26,1.56,189724

@@ -24,7 +24,7 @@ You will have 3 additional methods
 - update_credit_hours: 1 pararmeter for additional hours. This method will update credit hours by adding aditional_hours to the students credit hours.
 - print_student_data: Print all student data
 
-### Create Student Generator Class to test your code
+### Create Student Generator Program to test your code
 - Create 2 instances of Student
 - Place in a list
 - Print each students data

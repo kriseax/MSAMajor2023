@@ -30,6 +30,9 @@ You will have 3 additional methods
 - Print each students data
 
 
+## Update Student Generator
+Update the student generator program to read student data from the students.csv program
+
 
 
 

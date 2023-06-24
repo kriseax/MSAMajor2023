@@ -13,8 +13,6 @@ def dijkstra(graph, start):
     next = start
 
     while tentative:
-        lowest_cost = math.inf
-        current_node = ""
         shortest_distance = math.inf
 
         #select node from tentative list with lowest cost

@@ -12,7 +12,7 @@ The application should:
 - Ask the user for the beginning date in YYYY-MM-DD format.
 - Ask the user for the end date in YYYY-MM-DD format.
   - The end date should not be before the begin date
-- Generate a graph and open in the user’s default browser.
+- Generate a graph and open in the user’s default browser. 
 
 ## Sample Output
 [Stock Visualizer](https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=194ebeed-9c7d-4ae9-afb6-b02d00e28272)

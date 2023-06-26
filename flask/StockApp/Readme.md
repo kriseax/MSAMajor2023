@@ -16,3 +16,5 @@ The application should:
 
 ## Sample Output
 [Stock Visualizer](https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=194ebeed-9c7d-4ae9-afb6-b02d00e28272)
+
+The graphing module used in the demo is called pygal. Here is a link to the [Pygal Documentation](https://www.pygal.org/en/stable/documentation/index.html)

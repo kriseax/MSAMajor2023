@@ -30,5 +30,18 @@ def index():
     student_data = get_student_data(url)
     return render_template('index.html', student_data=student_data)
 
+#create a route for the majors search page
+@app.route('/majors', methods=['GET', 'POST'])
+def majors():
+    #make a request to the student api url
+    url = 'http://127.0.0.1:5000/api/students/all'
+
+    #get student data
+    student_data = get_student_data(url)
+
+    #Write code that gets the unique majors from the student_data list
+
+    return render_template('majors.html')
+
 #run the flask application
 app.run(port=5007)

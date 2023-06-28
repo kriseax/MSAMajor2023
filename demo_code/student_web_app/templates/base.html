@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %} {% endblock %} Student Application </title>
+        <style>
+            .post{
+                padding: 10px;
+                margin: 5px;
+                background-color: #f3f3f3;
+            }
+
+            nav a{
+                color: #d64161;
+                font-size: 3em;
+                margin-left: 50px;
+                text-decoration: none;
+            }
+
+            .alert{
+                padding: 20px;
+                margin: 5px;
+                color: #970020;
+                background-color: #ffd5de;
+            }
+
+            .post h2{
+                color: rgb(54, 48, 118);
+            }
+
+            .post ul{
+                list-style-type: none;
+                font-size: 20px;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifgit
+            }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <a href="{{ url_for('index') }}"> Home</a>
+        </nav>
+        <hr>
+        <div class="content">
+
+            {% block content %} {% endblock %}
+        </div>
+    </body>
+</html>

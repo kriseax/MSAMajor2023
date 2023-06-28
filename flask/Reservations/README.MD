@@ -26,3 +26,16 @@ Your application will need to have the following functionality:
     J. Each page should have a link to the main option page.
 
 Cost Matrix: You will need pricing a matrix to calculate sales for the flight. The following python function will create a 12 x 4 cost matrix which represents the cost of each seat on the flight. You should use this code in your project.
+
+```
+'''
+Function to generate cost matrix for flights
+Input: none
+Output: Returns a 12 x 4 matrix of prices
+'''
+def get_cost_matrix():
+    cost_matrix = [[100, 75, 50, 100] for row in range(12)]
+    return cost_matrix
+```
+
+

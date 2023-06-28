@@ -38,10 +38,29 @@ def majors():
 
     #get student data
     student_data = get_student_data(url)
-
+    major_list = []
     #Write code that gets the unique majors from the student_data list
+    for student in student_data:
+        if student['major'] not in major_list:
+            major_list.append(student['major'])
+    
+    if request.method == 'POST':
+        #get the form data
+        major = request.form['major'].strip()
+        #create list to store results
+        result_list = []
 
-    return render_template('majors.html')
+        #validate form data
+        if not major:
+            flash("You must select a major.")
+        else:
+            #get students with selected major and place in results list
+            for student in student_data:
+                if student['major'] == major:
+                    result_list.append(student)
+            return render_template('majors.html', major_list=major_list, result_list=result_list)
+
+    return render_template('majors.html', major_list=major_list)
 
 #run the flask application
 app.run(port=5007)

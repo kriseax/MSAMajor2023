@@ -253,3 +253,6 @@ for name, grade in student_grades.items():
 In this example, we have a dictionary called student_grades, where the keys represent the names of the students and the values represent their respective grades. We iterate over the dictionary using the items() method, which returns each key-value pair as a tuple. The name and grade variables in the loop header represent the key and value of each iteration, respectively. We then use these variables to print out the name and corresponding grade for each student in a formatted string.
 
 Dictionaries provide a powerful way to organize and manipulate data in Python, making them a valuable tool for various programming tasks.
+
+## User agent
+headers={"User-Agent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"} 

@@ -25,15 +25,42 @@ def export_data(list_of_stocks):
     
     return
 
+"""
+Function to load stock data into a dictionary
+Input: None
+Output: dictionary of company symbols and names
+"""
+def load_company_dictionaries():
+    company_dictionary = {}
+
+    try:
+        #open file
+        stock_file = open("stock_list.csv")
+        
+        counter = 0
+        for line_of_data in stock_file:
+            counter += 1
+            if counter == 1:
+                continue
+            
+            stock_data = line_of_data.split(",", 1)
+            company_dictionary[stock_data[0]] = stock_data[1].strip()
+        stock_file.close()
+    except:
+        print("ERROR loading stock symbols.\n")
+    
+    return company_dictionary
+
 
 def main():
     headers = {"User-Agent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"}
     
-    symbols_list = ["GOOGL", "IBM", "SBUX", "AMC", "NFLX", "TSLA", "BA", "CSCO", "INTC", "ORCL", "JNJ", "WMT"]
+    #symbols_list = ["GOOGL", "IBM", "SBUX", "AMC", "NFLX", "TSLA", "BA", "CSCO", "INTC", "ORCL", "JNJ", "WMT"]
+    symbol_dictionary = load_company_dictionaries()
     list_of_stock_dictionaries = []
     
-    for symbol in symbols_list:
-        print(f"Requesting data for {symbol} stock")
+    for symbol in symbol_dictionary:
+        print(f"Requesting stock data for {symbol_dictionary[symbol]}: {symbol}")
         url = f'https://finance.yahoo.com/quote/{symbol}?p={symbol}&.tsrc=fin-srch'
 
         #request the page

@@ -1,21 +1,36 @@
 
-def get_menu_dictinary():
-    pass
+"""
+Function to load menu items and cost into a dictionary
+Input: none
+Output: Dictionary of menu items and cost
+"""
+def get_menu_dictionary():
+    #open the file
+    data_file = open("file.txt", "r")
+
+    #create an empty dictionary
+    menu_item = {}
+
+    #loop through data in the file
+    for line_of_data in data_file:
+        #what do we need to do to each line of data?
+        #split line of data at the ", "
+        keys_values = line_of_data.split(", ")
+
+        #create an entry to the dictionary. Remeber to convert price to float
+        #key = keys_values[0]
+        #value = float(keys_values[1])
+        menu_item[keys_values[0]] = float(keys_values[1])
+
+    #close file
+    data_file.close()
+
+    #return dictionary
+    return menu_item
 
 def main():
 
-    menu_items = get_menu_dictinary()
-
-    menu_items = {
-        "Baja Taco": 4.00,
-        "Burrito": 7.50,
-        "Bowl": 8.50,
-        "Nachos": 11.00,
-        "Quesadilla": 8.50,
-        "Super Burrito": 8.50,
-        "Super Quesadilla": 9.50,
-        "Taco": 3.00,
-        "Tortilla Salad": 8.00}
+    menu_items = get_menu_dictionary()
     
     total = 0
     while True:
